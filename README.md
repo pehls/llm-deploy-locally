@@ -56,6 +56,6 @@ Project Organization
 
 # Visualization
 
-using (Taipy)[https://docs.taipy.io/en/latest/manuals/gui/pages/]
+using [Taipy](https://docs.taipy.io/en/latest/manuals/gui/pages/)
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
